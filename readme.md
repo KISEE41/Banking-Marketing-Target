@@ -1,0 +1,1 @@
+This project predicts whether a specific client accepts term deposit or not.
